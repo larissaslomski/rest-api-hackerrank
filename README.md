@@ -51,3 +51,4 @@ Response:
 }
 Output: um inteiro do número total de drawns.
 ```
+Mantive o código original criado durante o desafo de 1h30min para manter a fidelidade.
